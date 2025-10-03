@@ -6,7 +6,7 @@ Discussion of the contents of this repository should be directed to [this GitHub
 --- TO BE REMOVED WHEN PUBLIC
 Mastodon gGmbH operates two Mastodon servers, mastodon.social and mastodon.online, under the jurisdiction of German law.
 
-In June, we proposed to implement new Terms of Service that would apply to registered users of these servers, with the possibility of these terms being used as a template for other, future, default installations of the Mastodon software.
+In June 2025, we proposed to implement new Terms of Service that would apply to registered users of these servers, with the possibility of these terms being used as a template for other, future, default installations of the Mastodon software.
 
 Our community made it clear that we had not done enough to consider the implications, and that we had not met their expectations. We heard you. We’re sorry that this happened, and for not taking the time to consider that proposal more carefully.
 
