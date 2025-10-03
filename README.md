@@ -1,5 +1,9 @@
 # Revised Terms of Service for mastodon.social and mastodon.online
 
+Discussion of the contents of this repository should be directed to [this GitHub Discussion thread](https://github.com/mastodon/mastodon/discussions).
+
+
+--- TO BE REMOVED WHEN PUBLIC
 Mastodon gGmbH operates two Mastodon servers, mastodon.social and mastodon.online, under the jurisdiction of German law.
 
 In June, we proposed to implement new Terms of Service that would apply to registered users of these servers, with the possibility of these terms being used as a template for other, future, default installations of the Mastodon software.
@@ -18,7 +22,7 @@ In this draft, we have:
 
 ## Community consultation
 
-We are sharing these proposed Terms of Service with the community today, for comment and feedback, in case there’s something that we might have missed, or that there may be concerns or questions about.
+We are [sharing these proposed Terms of Service](https://github.com/mastodonfuture-tos) with the community today, for comment and feedback, in case there’s something that we might have missed, or that there may be concerns or questions about.
 
 * This is not a request for *consensus*, it is a request for comments. It is important to note that these Terms of Service are closely aligned to the specifics of German law, and to our liabilities as the operating organization for these two Mastodon servers. As above, these terms will only apply to registered users of these servers; they are not an attempt to impose any terms on the broader fediverse.  
 * Let us know if anything is not clear, so that we can consider re-wording it.  
@@ -26,7 +30,7 @@ We are sharing these proposed Terms of Service with the community today, for com
   * Clarifications may be provided in Q\&A format elsewhere, if they do not belong inside the Terms of Service directly.
 
 * You may use this GitHub Discussions thread to discuss the terms.  
-* Alternatively, please email your comments to [hello@joinmastodon.org](mailto:hello@joinmastodon.org)with a subject line of “Terms of Service consultation feedback”.   
+* Alternatively, please email your comments to [hello@joinmastodon.org](mailto:hello@joinmastodon.org) with a subject line of “Terms of Service consultation feedback”.   
   * If you contact us via email, we will acknowledge receipt of your message.  
 * We promise to review all the feedback that we receive via this GitHub Discussion thread or via email. We cannot promise that we will act on all the feedback that we receive, because, as the entity responsible for these two servers, we need to be comfortable with our terms, and the resultant risk. Due to the legal complexity of these matters and the lack of internal legal staff, we may not be able to respond in detail.  
 * Note that we may not see your specific comments via other channels, including responses within the fediverse, as our team’s ability to monitor a wide range of forums is limited.
